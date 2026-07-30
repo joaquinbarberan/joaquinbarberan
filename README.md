@@ -2,7 +2,7 @@
 
 Desarrollador web **junior** en Córdoba, Argentina. Estudiante de 3.º año de la Tecnicatura en Análisis de Sistemas en el IES.
 
-Trabajo como freelance y tengo **seis sitios en producción para clientes reales**, hechos de punta a punta: relevamiento con el cliente, desarrollo, deploy y mantenimiento.
+Trabajo como freelance y tengo **siete sitios en producción para clientes reales**, hechos de punta a punta: relevamiento con el cliente, desarrollo, deploy y mantenimiento.
 
 ## Sitios en producción
 
@@ -14,6 +14,7 @@ Trabajo como freelance y tengo **seis sitios en producción para clientes reales
 | **Ramiro Godoy** | Landing de coach con tres planes, pricing, promo trimestral y CTA a WhatsApp | HTML, CSS, JavaScript | https://ramiro-godoy.netlify.app |
 | **Conrado Marabián** | Presskit de DJ: bio, sets, galería y contacto | HTML, CSS, JavaScript | https://conradomarabian.netlify.app |
 | **Mati Marquez** | Dossier 2026 de DJ: recorrido de fechas, ficha técnica, galería en carrusel y contacto | HTML, CSS, JavaScript | https://matimarquezdj.netlify.app |
+| **ConteBox** | Sitio comercial de venta, alquiler y modificación de contenedores marítimos: catálogo de modelos, cotizador de 4 pasos que arma el pedido por WhatsApp y cobertura por depósitos | HTML, CSS, JavaScript | https://contebox.netlify.app |
 
 ## Stack
 
